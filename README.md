@@ -13,5 +13,5 @@ Here we are using MNIST dataset for training the neural network in Python using 
     4)  ESP32 (ROM 1.28MB RAM 320KB)
 
 ### Software Used:
-    1)  Atmel Studio
+    1)  Microchip Studio
     2)  Arduino IDE
