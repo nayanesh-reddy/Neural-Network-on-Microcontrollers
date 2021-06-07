@@ -15,3 +15,10 @@ Here we are using MNIST dataset for training the neural network in Python using 
 ### Software Used:
     1)  Microchip Studio
     2)  Arduino IDE
+
+### Block Diagram:
+![image](https://user-images.githubusercontent.com/84563214/121001085-8a150a80-c7a8-11eb-89af-cb7b0008b34c.png)
+
+### Network Diagram:
+#### FOR ESP32
+
