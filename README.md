@@ -37,11 +37,11 @@ Here we are using MNIST dataset for training the neural network in Python using 
 ### Image of a Prototype:
 
 #### ARDUINO UNO
-![image](https://user-images.githubusercontent.com/84563214/121003464-32c46980-c7ab-11eb-817e-d437476c3940.png)
+![image](https://user-images.githubusercontent.com/84563214/121003748-820a9a00-c7ab-11eb-8cc4-1b68b5024c51.png)
 
  
 #### ESP32
-![image](https://user-images.githubusercontent.com/84563214/121003478-37891d80-c7ab-11eb-973b-a87d036ed82c.png)
+![image](https://user-images.githubusercontent.com/84563214/121003727-7b7c2280-c7ab-11eb-9537-a75fb0328df2.png)
 
 
 
