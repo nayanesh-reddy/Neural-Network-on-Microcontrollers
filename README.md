@@ -34,7 +34,7 @@ Here we are using MNIST dataset for training the neural network in Python using 
 ![image](https://user-images.githubusercontent.com/84563214/121003288-014b9e00-c7ab-11eb-8a88-964d84324cb4.png)
 
 #
-### Image of a Prototype:
+### Image of Prototype:
 
 #### ARDUINO UNO
 ![image](https://user-images.githubusercontent.com/84563214/121003748-820a9a00-c7ab-11eb-8cc4-1b68b5024c51.png)
