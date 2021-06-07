@@ -20,5 +20,9 @@ Here we are using MNIST dataset for training the neural network in Python using 
 ![image](https://user-images.githubusercontent.com/84563214/121001085-8a150a80-c7a8-11eb-89af-cb7b0008b34c.png)
 
 ### Network Diagram:
-#### FOR ESP32
+#### For ESP32
+![image](https://user-images.githubusercontent.com/84563214/121002018-83d35e00-c7a9-11eb-95f2-27616281a706.png)
+#### For Arduino
+![image](https://user-images.githubusercontent.com/84563214/121002525-0fe58580-c7aa-11eb-9056-ec8e76a65607.png)
+
 
