@@ -6,6 +6,7 @@ Since we are having 4 layers with the weights represented in single-precision fl
 So, we are using ESP32 to work with this model.
 Here we are using MNIST dataset for training the neural network in Python using TensorFlow and Keras libraries.
 
+#
 ### Hardware Used:
     1)  Jump Wires
     2)  7-Segment Display
@@ -16,13 +17,51 @@ Here we are using MNIST dataset for training the neural network in Python using 
     1)  Microchip Studio
     2)  Arduino IDE
 
+#
 ### Block Diagram:
 ![image](https://user-images.githubusercontent.com/84563214/121001085-8a150a80-c7a8-11eb-89af-cb7b0008b34c.png)
 
-### Network Diagram:
-#### For ESP32
+## Neural Network Diagram:
+### For ESP32
 ![image](https://user-images.githubusercontent.com/84563214/121002018-83d35e00-c7a9-11eb-95f2-27616281a706.png)
-#### For Arduino
+
+### For Arduino
 ![image](https://user-images.githubusercontent.com/84563214/121002525-0fe58580-c7aa-11eb-9056-ec8e76a65607.png)
+
+#
+### Some Scaled 10x10 grayscale images from MNIST dataset:
+![image](https://user-images.githubusercontent.com/84563214/121003263-f7c23600-c7aa-11eb-919d-afe740f3eb0e.png)
+![image](https://user-images.githubusercontent.com/84563214/121003288-014b9e00-c7ab-11eb-8a88-964d84324cb4.png)
+
+#
+### Image of a Prototype:
+
+#### ARDUINO UNO
+![image](https://user-images.githubusercontent.com/84563214/121003464-32c46980-c7ab-11eb-817e-d437476c3940.png)
+
+ 
+#### ESP32
+![image](https://user-images.githubusercontent.com/84563214/121003478-37891d80-c7ab-11eb-973b-a87d036ed82c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
