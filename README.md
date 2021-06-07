@@ -5,3 +5,13 @@ Later we build another neural network which contains one input layer, one output
 Since we are having 4 layers with the weights represented in single-precision floating point (32-bit wide) values we need a micro-controller with a floating-point unit and also having more RAM.
 So, we are using ESP32 to work with this model.
 Here we are using MNIST dataset for training the neural network in Python using TensorFlow and Keras libraries.
+
+### Hardware Used:
+    1)  Jump Wires
+    2)  7-Segment Display
+    3)  Arduino Uno (ROM 32KB RAM 2KB)
+    4)  ESP32 (ROM 1.28MB RAM 320KB)
+
+### Software Used:
+    1)  Atmel Studio
+    2)  Arduino IDE
